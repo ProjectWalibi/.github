@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are Project Walibi</h1>
-<h3 align="center">We are a Minecraft recreation of Walibi Hollan</h3>
+<h3 align="center">We are a Minecraft recreation of Walibi Holland</h3>
 
 - 🔭 Visit our [Website](https://projectwalibi.nl)
 
